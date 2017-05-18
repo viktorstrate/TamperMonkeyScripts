@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Make 'Theater View' on Youtube videos fill the screen.
 // @author       Viktor Strate
-// @match        https://www.youtube.com/watch*
+// @match        https://www.youtube.com/*
 // @require      https://code.jquery.com/jquery-3.2.1.min.js
 // @grant        none
 // ==/UserScript==
